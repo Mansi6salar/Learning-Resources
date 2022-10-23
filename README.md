@@ -10,7 +10,7 @@
     {
       courseName: "Javascript course",
       brief: "From basic JS to advance",
-      link: "course_link",
+      link: "Course_link",
     },
    ```
 3. Push the commit to GitHub.
